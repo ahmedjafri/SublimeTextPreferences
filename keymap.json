@@ -1,0 +1,6 @@
+[
+	{ "keys": ["shift+alt+up"], "command": "move_by_paragraph", "args": {"extend": true, "forward": false} },
+	{ "keys": ["shift+alt+down"], "command": "move_by_paragraph", "args": {"extend": true} },
+	{ "keys": ["alt+up"], "command": "move_by_paragraph", "args": {"extend": false, "forward": false} },
+	{ "keys": ["alt+down"], "command": "move_by_paragraph", "args": {"extend": false} }
+]
