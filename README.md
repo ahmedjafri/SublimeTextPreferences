@@ -2,7 +2,11 @@
 These are my preferences for Sublime Text
 
 ## Installation
-To use the key bindings copy **move_by_paragraph.py** to your User packages folder. Navigate there by going to **Preferences->Browse Packages...**. 
+We will be installing everything into the Packages folder for Sublime Text
+To open this folder in Explorer/Finder find **Preferences->Browse Packages...** in Sublime Text's menu
 
-Also copy the key bindings from **keymap.json** into your Key Bindings JSON which can be found in **Preferences->Key Bindings - User** 
+Install the Material Theme by downloading the repo https://github.com/ahmedjafri/material-theme and extracting it into the packages folder as **Material Theme**
 
+Install the 1337 Color Scheme by downloading the repo https://github.com/ahmedjafri/1337-Scheme and extracting it into the packages folder as **1337**
+
+Copy the files in this repo into Packages/User/
