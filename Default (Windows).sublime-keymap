@@ -4,5 +4,7 @@
 	{ "keys": ["alt+up"], "command": "move_by_paragraph", "args": {"extend": false, "forward": false} },
 	{ "keys": ["alt+down"], "command": "move_by_paragraph", "args": {"extend": false} },
 	{ "keys": ["alt+left"], "command": "move_to", "args": {"to": "bol", "extend": false} },
-	{ "keys": ["alt+right"], "command": "move_to", "args": {"to": "eol", "extend": false} }
+	{ "keys": ["alt+right"], "command": "move_to", "args": {"to": "eol", "extend": false} },
+	{ "keys": ["shift+alt+left"], "command": "move_to", "args": {"to": "bol", "extend": true} },
+	{ "keys": ["shift+alt+right"], "command": "move_to", "args": {"to": "eol", "extend": true} }
 ]
